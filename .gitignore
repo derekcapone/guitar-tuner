@@ -1,0 +1,4 @@
+ui_generated/
+.venv/
+.idea/
+ui_logic/__pycache__/
